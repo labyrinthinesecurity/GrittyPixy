@@ -7,7 +7,7 @@ We leverage the sensitivity of existing QR code readers and stretch them to thei
 
 In this PoC, we also want to debunk the idea that geometric codes are too small to contain dangerous payloads. We can make QR codes as big as we want, the DAN code shown belows has about 500 characters.
 
-This is not difficult to craft very elaborated prompts and to inject them into QR codes. What is difficult is to make them inconspicuous as we do here with Gritty Pixy.
+It is not difficult to craft very elaborated prompts and to inject them into QR codes. What is difficult is to make them inconspicuous as we attempt to do here with Gritty Pixy.
 
 <img src="https://github.com/labyrinthinesecurity/GrittyPixy/blob/main/cover.png" alt="Cover Image" width="600">
 
@@ -15,5 +15,5 @@ This is not difficult to craft very elaborated prompts and to inject them into Q
 
 ## Samples
 
-Take a look at the sample directories where you will see an injected image along with its revealed QR code
+Take a look at the sample directories where you will see injected images along with their revealed QR code
  
